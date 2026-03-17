@@ -2,7 +2,18 @@
   "appToken" : "wDOBBn7ozFlhJg0Vxd3EDyanqs8UIMNnNAkdQmN2BBY=",
   "channel" : 11,
   "channels" : [
-
+    {
+      "name": "糖果教室",
+      "channel": 11
+    },
+    {
+      "name": "会议室",
+      "channel": 6
+    },
+    {
+      "name": "大门口",
+      "channel": 16
+    }
   ],
   "serialNo" : "GD1760037",
   "ysAccessToken" : "at.c1t39i7d9yf4kshu4j3f4kmr27lastuc-6t7ongpkl2-0pci11s-epgrvglyj"
