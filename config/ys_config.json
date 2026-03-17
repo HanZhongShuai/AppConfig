@@ -1,6 +1,9 @@
 {
   "appToken" : "wDOBBn7ozFlhJg0Vxd3EDyanqs8UIMNnNAkdQmN2BBY=",
-  "channel" : 11,
+  "channel" : 1,
+  "channels" : [
+
+  ],
   "serialNo" : "GD1760037",
   "ysAccessToken" : "at.c1t39i7d9yf4kshu4j3f4kmr27lastuc-6t7ongpkl2-0pci11s-epgrvglyj"
 }
